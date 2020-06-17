@@ -26,7 +26,7 @@ class ViewController: NSViewController {
         print("from master branch")
         return num1 + num2
     }
-    
+     print("thing 2")
     override var representedObject: Any? {
         didSet {
         // Update the view, if already loaded.
