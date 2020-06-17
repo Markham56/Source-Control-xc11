@@ -25,7 +25,7 @@ class ViewController: NSViewController {
     func addNumbers(num1: Int, num2: Int) -> Int {
         return num1 + num2
     }
-    
+     print("thing 2")
     override var representedObject: Any? {
         didSet {
         // Update the view, if already loaded.
