@@ -23,7 +23,7 @@ class ViewController: NSViewController {
      - returns: The sum of num1 and num2.
      */
     func addNumbers(num1: Int, num2: Int) -> Int {
-        print("from master branch")
+        print("from conflictbranch2")
         return num1 + num2
     }
     
